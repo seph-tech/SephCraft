@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Auctionator_SephCraft
+## Notes: Shows auction house reagent material cost in trade skill window
+## Dependencies: Auctionator
+## Author: Sepheran
+## Version: 1.0
+Auctionator_SephCraft.lua
