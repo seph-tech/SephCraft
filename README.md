@@ -21,5 +21,5 @@ Hold Shift while hovering:
 
 Switches to a clean shopping list. Shows only materials you still need to buy. Calculates total cost to purchase missing mats.
 
-Auctinator is obviously needed for this addon to work, and is included in rar file. It probably works with other Auctinator versions and on other wotlk servers.
+Auctinator is obviously needed for this addon to work, and is included. It probably works with other Auctinator versions and on other wotlk servers.
 
