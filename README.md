@@ -1,6 +1,8 @@
-Small quality-of-life addon for Ascension (WotLK client).
+# SephCraft
 
-This uses Auctionator pricing data and shows the total material cost of the currently selected recipe directly inside the profession window. 
+This is a quality-of-life addon built for Ascension (3.3.5 WotLK client).
+
+This addon uses Auctionator pricing data and shows the total material cost of the currently selected recipe directly inside the profession window. Auctinator needs for item pricing to be scanned, otherwise it would show "unkown".
 
 
 
@@ -10,16 +12,14 @@ This uses Auctionator pricing data and shows the total material cost of the curr
 
 
 
-
-Works with every profession and with extended professions UI addon.
-
-Tooltip features:
-
-Hover over the [AH mats price] line, and it shows full reagent breakdown with total cost. Calculates “After bags” cost (subtracts mats already in your inventory). Shows savings automatically if you have materials.
-
-Hold Shift while hovering:
-
-Switches to a clean shopping list. Shows only materials you still need to buy. Calculates total cost to purchase missing mats.
-
 Auctinator is obviously needed for this addon to work, and is included. It probably works with other Auctinator versions and on other wotlk servers.
+It works with every profession and with extended professions UI addon.
+
+
+# Features
+Hovering over the [AH mats price] line, shows full reagent breakdown with total cost. Calculates “After bags” cost (subtracts mats already in your inventory). Shows savings automatically if you have materials.
+
+Holding Shift while covering switches to a clean shopping list. Shows only materials you still need to buy. Calculates total cost to purchase missing mats.
+
+
 
